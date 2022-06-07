@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+The guesthouse repository for WacOS 12, an open source recreation of MacOS 12.x (Monterey). Part of the WacOS operating system project.
